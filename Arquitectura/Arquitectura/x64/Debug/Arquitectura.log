@@ -1,0 +1,104 @@
+﻿  Arquitectura.cpp
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(18,5): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(19,9): error C2065: 'finit': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(20,9): error C2146: error de sintaxis: falta ';' delante del identificador 'inc'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(20,9): error C2065: 'inc': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(20,13): error C2146: error de sintaxis: falta ';' delante del identificador 'n'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(23,9): error C2146: error de sintaxis: falta ';' delante del identificador 'inc'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(23,9): error C2065: 'inc': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(23,13): error C2146: error de sintaxis: falta ';' delante del identificador 'm'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(24,9): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(24,9): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(24,13): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(24,13): error C2065: 'ecx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(25,9): error C2146: error de sintaxis: falta ';' delante del identificador 'sum'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(27,9): error C2065: 'fild': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(27,14): error C2146: error de sintaxis: falta ';' delante del identificador 'n2'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(28,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fild'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(28,13): error C2065: 'fild': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(28,18): error C2146: error de sintaxis: falta ';' delante del identificador 'n'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(29,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fmul'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(29,13): error C2065: 'fmul': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(30,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fstp'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(30,13): error C2065: 'fstp': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(30,18): error C2146: error de sintaxis: falta ';' delante del identificador 'cont'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(31,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fld'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(31,13): error C2065: 'fld': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(31,17): error C2146: error de sintaxis: falta ';' delante del identificador 'cont'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(32,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fadd'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(32,13): error C2065: 'fadd': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(32,18): error C2146: error de sintaxis: falta ';' delante del identificador 'n1'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(33,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fstp'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(33,13): error C2065: 'fstp': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(33,18): error C2146: error de sintaxis: falta ';' delante del identificador 'r'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(36,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(36,13): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(36,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(36,17): error C2065: 'ebx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(37,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(37,13): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(37,17): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(37,17): error C2065: 'eax': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(38,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mul'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(38,13): error C2065: 'mul': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(38,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(38,17): error C2065: 'ebx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(39,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(39,13): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(39,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(39,17): error C2065: 'ecx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(39,22): error C2065: 'eax': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(42,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(42,13): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(42,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(42,17): error C2065: 'ecx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(42,22): error C2065: 'eax': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(43,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fld'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(43,13): error C2065: 'fld': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(43,17): error C2146: error de sintaxis: falta ';' delante del identificador 'x'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(44,13): error C2146: error de sintaxis: falta ';' delante del identificador 'potencia'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(45,9): error C2065: 'fmul': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(45,14): error C2146: error de sintaxis: falta ';' delante del identificador 'x'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(46,13): error C2146: error de sintaxis: falta ';' delante del identificador 'loop'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(46,13): error C2065: 'loop': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(46,18): error C2146: error de sintaxis: falta ';' delante del identificador 'potencia'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(46,18): error C2065: 'potencia': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(47,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fstp'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(47,13): error C2065: 'fstp': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(47,18): error C2146: error de sintaxis: falta ';' delante del identificador 'r2'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(48,13): error C2146: error de sintaxis: falta ';' delante del identificador 'finit'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(48,13): error C2065: 'finit': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(51,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(51,13): error C2065: 'mov': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(51,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(51,17): error C2065: 'ecx': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(51,22): error C2065: 'eax': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(52,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fld'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(52,13): error C2065: 'fld': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(52,17): error C2146: error de sintaxis: falta ';' delante del identificador 'r'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(53,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fact'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(54,9): error C2065: 'fmul': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(54,14): error C2146: error de sintaxis: falta ';' delante del identificador 'cont'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(55,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fld'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(55,13): error C2065: 'fld': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(55,17): error C2146: error de sintaxis: falta ';' delante del identificador 'cont'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(56,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fsub'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(56,13): error C2065: 'fsub': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(56,18): error C2146: error de sintaxis: falta ';' delante del identificador 'n1'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(57,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fstp'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(57,13): error C2065: 'fstp': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(57,18): error C2146: error de sintaxis: falta ';' delante del identificador 'cont'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(58,13): error C2146: error de sintaxis: falta ';' delante del identificador 'loop'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(58,13): error C2065: 'loop': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(58,18): error C2146: error de sintaxis: falta ';' delante del identificador 'fact'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(58,18): error C2065: 'fact': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(59,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fstp'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(59,13): error C2065: 'fstp': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(59,18): error C2146: error de sintaxis: falta ';' delante del identificador 'r3'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(60,13): error C2146: error de sintaxis: falta ';' delante del identificador 'finit'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(60,13): error C2065: 'finit': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(63,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fld'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(63,13): error C2065: 'fld': identificador no declarado
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(63,17): error C2146: error de sintaxis: falta ';' delante del identificador 'r2'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(64,13): error C2146: error de sintaxis: falta ';' delante del identificador 'fdiv'
+C:\Users\ACER\source\repos\Arquitectura\Arquitectura\Arquitectura.cpp(64,18): fatal error C1003: el recuento de errores supera 100; se detiene la compilación
